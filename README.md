@@ -1,2 +1,7 @@
 # HTML-CSS-25
-Go it Course
+
+GO IT course
+
+https://ljubik.github.io/goit-markup-hw-02/
+
+
